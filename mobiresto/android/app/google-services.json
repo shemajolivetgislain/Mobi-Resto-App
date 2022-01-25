@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59034004159",
+    "project_id": "mobiresto-e7ece",
+    "storage_bucket": "mobiresto-e7ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59034004159:android:bb8e93d01b2ed1e056340a",
+        "android_client_info": {
+          "package_name": "com.example.mobiresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59034004159-bgkvelfs2lm4n52gngege6oeu9eciefh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71ORdD68__7xF5mPWp4_kv-N02i5gSHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59034004159-bgkvelfs2lm4n52gngege6oeu9eciefh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
